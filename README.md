@@ -17,12 +17,22 @@
 <br />
 
 <h3>Welcome to my Github profile!</h3>
-Hey, I'm a student pursuing Computer Science and I am driven by my passion towards technology and power of tech to
-change the way of living life. I am an aspiring Full Stack developer and an AI enthusiast.
+<br>                                                                                               
+A brief about myself-
+</br>                                                                                          
+I'm a Computer Science undergrad. 
+</br>
+🔭 I’m currently learning DSA, and designing.
+ </br>                                                                                           
+🌱 I write <a href="tanishagupta213.medium.com">Tech Blogs</a> at times to share cool and trending technologies with fellow developers.
+ </br>
+ 🏅 Earned Gold badge & 5 star at HackerRank in JAVA programming.
+ </br>                                                                                                                                                      
+👯 I’m looking forward to collaborate on various Open Source Projects
+
+                                                                                             
 <br />
 <br />
-
-
 
 **Languages and Tools:**
 <p align="center">
@@ -47,7 +57,10 @@ change the way of living life. I am an aspiring Full Stack developer and an AI e
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img title="Visual Studio Code" height="25"
     src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
-                                                                             
+                                       
+                                                                                    
+   [![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishagupta1)](https://github.com/anuraghazra/github-readme-stats)
+
                                                                                     
                                                                                     
                                                                                     
