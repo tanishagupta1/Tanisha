@@ -24,7 +24,7 @@ I'm a Computer Science undergrad.
 </br>
 🔭 I’m currently learning DSA, and designing.
  </br>                                                                                           
-🌱 I write <a href="tanishagupta213.medium.com">Tech Blogs</a> at times to share cool and trending technologies with fellow developers.
+🌱 I write <a href="https://tanishagupta213.medium.com/">Tech Blogs</a> at times to share cool and trending technologies with fellow developers.
  </br>
  🏅 Earned Gold badge & 5 star at HackerRank in JAVA programming.
  </br>                                                                                                                                                      
