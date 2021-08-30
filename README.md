@@ -1,4 +1,4 @@
-### Hi there, I'm [Tanisha!](https://tanishagupta1.github.io/Tanisha-Gupta/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there, I'm Tanisha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/tanisha-gupta1/">
   <img align="left" alt="Tanisha Gupta | LinkedIn"
