@@ -1,5 +1,6 @@
 # Hi there, I'm <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Tanisha </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ## Take a glance at my portfolio 👉<a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">here!</a>
+### Let's Connect!
 <a href="https://www.linkedin.com/in/tanisha-gupta1/">
   <img align="left" alt="Tanisha Gupta | LinkedIn"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,23 +17,15 @@
 
 <br />
 
-<h3>Welcome to my Github profile!</h3>
-<br>                                                                                               
-A brief about myself-
-</br>                                                                                          
-I'm a Computer Science undergrad. 
-</br>
-🔭 I’m currently learning DSA, and designing.
+<h3>I am <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Tanisha</a> an undergraduate CSE student. A Full Stack Developer, who loves designing and creating new stuff.</h3>                                                                                            
+<br>
+🔭 Currently learning Reactjs, Grinding LeetCode and Exploring Open Source
  </br>                                                                                           
-🌱 I write <a href="https://tanishagupta213.medium.com/">Tech Blogs</a> at times to share cool and trending technologies with fellow developers.
+🌱 Find my geeky tech writngs here <a href="https://tanishagupta213.medium.com/">Tech Blogs</a> 
  </br>
  🏅 Earned Gold badge & 5 star at HackerRank in JAVA programming.
- </br>                                                                                                                                                      
-👯 I’m looking forward to collaborate on various Open Source Projects
+ </br>                                                                                                                                                                           
 
-                                                                                             
-<br />
-<br />
 
 **Languages and Tools:**
 <p align="center">
