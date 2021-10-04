@@ -17,7 +17,7 @@
 
 <br />
 
-<h3>I am <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Tanisha</a> an undergraduate CSE student. A Full Stack Developer, who loves designing and creating new stuff.</h3>                                                                                            
+<h3>I am <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Tanisha</a> an undergraduate CSE student. A Full Stack Developer, who loves designing and creating and exploring new stuff.</h3>                                                                                            
 <br>
 🔭 Currently learning Reactjs, Grinding LeetCode and Exploring Open Source
  </br>                                                                                           
@@ -50,9 +50,11 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img title="Visual Studio Code" height="25"
     src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
-                                       
+      <br>
+      <br>
                                                                                     
-   [![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishagupta1)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanishagupta1&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishagupta1&theme=tokyonight" />
 
                                                                                     
                                                                                     
