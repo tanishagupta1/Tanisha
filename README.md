@@ -26,8 +26,8 @@
  🏅 Earned Gold badge & 5 star at HackerRank in JAVA programming.
  </br>                                                                                                                                                                           
 
-
-**Languages and Tools:**
+                                                                                
+**Languages and Tools :**
 <p align="center">
   <img title="Python" height="25"
     src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg">
