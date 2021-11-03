@@ -18,13 +18,20 @@
 <br />
 
 <h3>I am <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Tanisha</a> an undergraduate CSE student. A Full Stack Developer, who loves designing and creating and exploring new stuff.</h3>                                                                                            
-<br>
-🔭 Currently learning Reactjs, Grinding LeetCode and Exploring Open Source
+<br>                                                                          
+                                                                           
+🔭 Currently learning Everything, Grinding LeetCode, Exploring Open Source, Enjoying Hackathons and loving Communities💕
  </br>                                                                                           
-🌱 Find my geeky tech writngs here <a href="https://tanishagupta213.medium.com/">Tech Blogs</a> 
+## Blog and Writings ✍️
+| Blog                                                                                                                | &nbsp;         |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [SASS Essentials: Basics you need to know!](https://tanishagupta213.medium.com/sass-essentials-basics-you-need-to-know-7c44c8361642) | Medium |
+| [Create your own Filters on Instagram : An intro to Spark AR](https://tanishagupta213.medium.com/create-your-own-filters-on-instagram-8bd3ce9ba852) | Medium |
+| [5 Things you should know about Ethereum.](https://tanishagupta213.medium.com/5-reasons-why-you-should-know-about-ethereum-af353fbf24fd) | Medium |
+| [POMODORO: Learn How To Learn.](https://tanishagupta213.medium.com/pomodoro-learn-how-to-learn-e8f3789bb7e) | Medium |                                                            
  </br>
  🏅 Earned Gold badge & 5 star at HackerRank in JAVA programming.
- </br>                                                                                                                                                                           
+ <br></br>                                                                                                                                                                           
 
                                                                                 
 **Languages and Tools :**
