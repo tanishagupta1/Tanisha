@@ -30,7 +30,7 @@
 | [5 Things you should know about Ethereum.](https://tanishagupta213.medium.com/5-reasons-why-you-should-know-about-ethereum-af353fbf24fd) | Medium |
 | [POMODORO: Learn How To Learn.](https://tanishagupta213.medium.com/pomodoro-learn-how-to-learn-e8f3789bb7e) | Medium |                                                            
  </br>
- 🏅 Earned Gold badge & 5 star at HackerRank in JAVA programming.
+ 🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/tanishagupta2201?hr_r=1"><b>HackerRank</b> </a>in JAVA programming.
  <br></br>                                                                                                                                                                           
 
                                                                                 
