@@ -25,14 +25,16 @@
 ## Blog and Writings ✍️
 | Blog                                                                                                                | &nbsp;         |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Java Strings: A Comprehensive ](https://tanishagupta213.medium.com/java-strings-a-comprehensive-39cdd9882ae) | Medium |
 | [SASS Essentials: Basics you need to know!](https://tanishagupta213.medium.com/sass-essentials-basics-you-need-to-know-7c44c8361642) | Medium |
 | [Create your own Filters on Instagram : An intro to Spark AR](https://tanishagupta213.medium.com/create-your-own-filters-on-instagram-8bd3ce9ba852) | Medium |
 | [5 Things you should know about Ethereum.](https://tanishagupta213.medium.com/5-reasons-why-you-should-know-about-ethereum-af353fbf24fd) | Medium |
 | [POMODORO: Learn How To Learn.](https://tanishagupta213.medium.com/pomodoro-learn-how-to-learn-e8f3789bb7e) | Medium |                                                            
  </br>
  🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/tanishagupta2201?hr_r=1"><b>HackerRank</b> </a>in JAVA programming.
- <br></br>                                                                                                                                                                           
-
+ <br>
+ 🎯 160+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b>                                                                                      
+ 
                                                                                 
 **Languages and Tools :**
 <p align="center">
