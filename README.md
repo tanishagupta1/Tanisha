@@ -33,7 +33,7 @@
  </br>
  🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/tanishagupta2201?hr_r=1"><b>HackerRank</b> </a>in JAVA programming.
  <br>
- 🎯 160+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b>                                                                                      
+ 🎯 310+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b>                                                                                      
  
                                                                                 
 **Languages and Tools :**
