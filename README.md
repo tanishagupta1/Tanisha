@@ -32,7 +32,12 @@
  </br>
  🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/tanishagupta2201?hr_r=1"><b>HackerRank</b> </a>in JAVA programming.
  <br>
- 🎯 330+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b>                                                                                      
+ 🎯 330+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b> 
+ <br> 
+ <br>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=urvishajain&label=Views&color=blue&style=plastic" alt="tanishagupta1" />
+ </p>     
  
                                                                                 
 **Languages and Tools :**
