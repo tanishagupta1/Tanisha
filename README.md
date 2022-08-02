@@ -29,7 +29,7 @@
  </br>
  🏅 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/tanishagupta2201?hr_r=1"><b>HackerRank</b> </a>in JAVA programming.
  <br>
- 🎯 330+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b> 
+ 🎯 400+ problems solved on <b><a href="https://leetcode.com/tanisha1/">LeetCode</a></b> 
  <br> 
  <br>
 <p align="left"> 
@@ -65,7 +65,7 @@
                                                                                     
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanishagupta1&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishagupta1&theme=tokyonight" />
-  <a href="https://github.com/tanishagupta1">
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishagupta1&theme=tokyonight&layout=compact&" />
 </a>
 
