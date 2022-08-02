@@ -9,11 +9,8 @@
     src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"
     height=25" />
 </a>
-<a href="https://twitter.com/tanisha_gupta12">
-  <img align="left" alt="Tanisha | Twitter" width="21px"
-    src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanisha_gupta12.svg?style=social)](https://twitter.com/tanisha_gupta12)
 <br />
 
 <h3>I am <a href="https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/">Tanisha</a> an undergraduate CSE student. A Full Stack Developer, who loves designing and creating and exploring new stuff.</h3>                                                                                            
